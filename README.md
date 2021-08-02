@@ -24,10 +24,8 @@
 :hammer: xUnit  
 :hammer: xUnit Runner  
 :hammer: Microsoft NET test SDK  
-
-***
-:hammer: Moq  
-:hammer: Fluent Assertion  
+:hammer: *Moq*  
+:hammer: *Fluent Assertion*  
 
 ## Common attributes and their usase
 | Attribute        | Usase       |
