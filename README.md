@@ -1,6 +1,6 @@
 # :pushpin: Demo Project - xUnit
 
-## Why is Unit testing
+## Why Unit Testing
 
 :heavy_check_mark: Help us to be Agile and eliminate fear of change  
 :heavy_check_mark: Improve the code quality  
