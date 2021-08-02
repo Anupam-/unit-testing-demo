@@ -1,5 +1,7 @@
 # :pushpin: Demo Project - xUnit
 
+![alt text](https://github.com/Anupam-/unit-testing-demo/blob/main/assets/unit-testing.PNG?raw=true)
+
 ## Why Unit Testing
 
 :heavy_check_mark: Help us to be Agile and eliminate fear of change  
