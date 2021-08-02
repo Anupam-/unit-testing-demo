@@ -1,6 +1,6 @@
 # :pushpin: Demo Project - xUnit
 
-![alt text](https://github.com/Anupam-/unit-testing-demo/blob/main/assets/unit-testing.PNG?raw=true=150x150)
+<img src="https://github.com/Anupam-/unit-testing-demo/blob/main/assets/unit-testing.PNG?raw=true" alt="Unit Testing" width="200" height="200">
 
 ## Why Unit Testing
 
