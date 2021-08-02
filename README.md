@@ -35,5 +35,5 @@
 | Fact             | Use to tell a method is unit test method |
 | Theory           | Use as Fact but where a test method required different set of data and we want to remove duplicate test mothods |
 | InlineData       | It is used with Theory attribute to provide parameters |     
-| Fixture          | Use share a context in a test class |
-| CollectionFixture| Use to share context between multiple test classes |
+| Fixture          | To share a context in a test class (singleton instance) |
+| CollectionFixture| To share context between multiple test classes |
