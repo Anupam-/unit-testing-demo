@@ -17,7 +17,7 @@
 
 ## Comparision between nUnit and xUnit
 :heavy_check_mark: xUnit have less attributes and attributes names are intutive  
-:heavy_check_mark: xUnit follow principle of class and uses constructor for initialization/setup and IDispose for cleaup  
+:heavy_check_mark: xUnit follow principle of class and use constructor for initialization/setup and IDispose for cleaup  
 :heavy_check_mark: In xUnit its easy to inject Fixtures  
 :heavy_check_mark: We can also use Moq in xUnit just like in nUnit  
 
@@ -29,8 +29,8 @@
 :hammer: *Moq*  
 :hammer: *Fluent Assertion*  
 
-## Common attributes and their usase
-| Attribute        | Usase       |
+## Common attributes and their usage
+| Attribute        | Usage       |
 | -------------    |-------------|
 | Fact             | Use to tell a method is unit test method |
 | Theory           | Use as Fact but where a test method required different set of data and we want to remove duplicate test mothods |
