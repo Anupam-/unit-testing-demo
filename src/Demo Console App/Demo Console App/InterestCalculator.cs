@@ -8,12 +8,21 @@ namespace Demo_Console_App
 {
     public class InterestCalculator
     {
-        readonly decimal InterestRatePercent = 6m;
+        private readonly decimal InterestRatePercent = 6m;
+
+        private readonly ICurrencyConverter _currencyConverter;
+
+        public InterestCalculator(ICurrencyConverter currencyConverter)
+        {
+            _currencyConverter = currencyConverter;
+        }
+
+        
         public decimal Calculate(decimal principalAmount, int years)
         {
             decimal interest = (principalAmount * InterestRatePercent * years) / 100;
 
-            return Math.Round(interest);
+            return _currencyConverter.Convert(interest);
         }             
     }
 }
