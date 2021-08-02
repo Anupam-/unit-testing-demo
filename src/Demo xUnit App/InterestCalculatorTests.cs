@@ -7,11 +7,11 @@ namespace Demo_xUnit_App
 {
     public class InterestCalculatorTests: IClassFixture<USDConverter>
     {
-        private USDConverter currencyconverter;
+        private USDConverter _currencyconverter;
 
         public InterestCalculatorTests(USDConverter uSDConverter)
         {
-            currencyconverter = uSDConverter;
+            _currencyconverter = uSDConverter;
         }
 
         /// <summary>
@@ -21,7 +21,7 @@ namespace Demo_xUnit_App
         public void CalculateInteestFor1Year()
         {
             // Arrange
-            var sut = new InterestCalculator(currencyconverter);
+            var sut = new InterestCalculator(_currencyconverter);
 
             // Act
             decimal result = sut.Calculate(50000, 1);
@@ -34,7 +34,7 @@ namespace Demo_xUnit_App
         public void CalculateInteestFor2Year()
         {
             // Arrange
-            var sut = new InterestCalculator(currencyconverter);
+            var sut = new InterestCalculator(_currencyconverter);
 
             // Act
             decimal result = sut.Calculate(100000, 2);
@@ -60,7 +60,7 @@ namespace Demo_xUnit_App
         public void CalculateInteestForDifferentTenureAndAmount(decimal expected, decimal amount, int years )
         {
             // Arrange
-            var sut = new InterestCalculator(currencyconverter);
+            var sut = new InterestCalculator(_currencyconverter);
 
             // Act
             decimal result = sut.Calculate(amount, years);
