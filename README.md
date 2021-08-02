@@ -10,8 +10,16 @@
 
 
 ## Comparision between nUnit and xUnit
-:heavy_check_mark:   
-:heavy_check_mark:   
-:heavy_check_mark:   
-:heavy_check_mark:   
-:heavy_check_mark:   
+:heavy_check_mark: xUnit have less attributes and attributes names are intutive  
+:heavy_check_mark: xUnit follow principle of class and uses constructor for initialization/setup and IDispose for cleaup  
+:heavy_check_mark: In xUnit its easy to inject Fixtures  
+:heavy_check_mark: We can also use Moq in xUnit just like in nUnit  
+
+## Packages required for xUnit
+
+:hammer: xUnit  
+:hammer: xUnit Runner  
+:hammer: Microsoft NET test SDK  
+---
+:hammer: Moq  
+:hammer: Fluent Assertion  
