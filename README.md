@@ -1,4 +1,4 @@
-# Demo project to demonstrate unit testing using xUnit
+# :pushpin: Demo Project - xUnit
 
 ## Why is Unit testing
 
