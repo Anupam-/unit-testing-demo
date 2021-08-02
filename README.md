@@ -7,7 +7,11 @@
 :heavy_check_mark: Help in debugging  
 :heavy_check_mark: Help to find bugs in early stage of development  
 
+## AAA Pattern
 
+:a: Arrange: This block is used for preparing data for a method to be unit tested  
+:a: Act: This block is use to invoke method  
+:a: Assert: This block is use to compare expected output and actual output  
 
 ## Comparision between nUnit and xUnit
 :heavy_check_mark: xUnit have less attributes and attributes names are intutive  
