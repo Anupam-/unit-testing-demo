@@ -24,3 +24,10 @@
 ***
 :hammer: Moq  
 :hammer: Fluent Assertion  
+
+## Common attributes and their usase
+| Attribute        | Usase        |
+| -------------    |:-------------|
+| Fact             | Used to tell a method is unit test method |
+| Theory           | Use as Fact but where a test method required different set of data and we want to remove duplicate test mothods |
+| InlineData       | It is used with Theory attribute to provide parameters |     |
