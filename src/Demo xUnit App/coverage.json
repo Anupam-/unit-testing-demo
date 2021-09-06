@@ -1,0 +1,53 @@
+{
+  "Demo Console App.dll": {
+    "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\Demo Console App\\Demo Console App\\InterestCalculator.cs": {
+      "Demo_Console_App.InterestCalculator": {
+        "System.Decimal Demo_Console_App.InterestCalculator::Calculate(System.Decimal,System.Int32)": {
+          "Lines": {
+            "22": 10,
+            "23": 10,
+            "25": 10,
+            "26": 10
+          },
+          "Branches": []
+        },
+        "System.Void Demo_Console_App.InterestCalculator::.ctor(Demo_Console_App.ICurrencyConverter)": {
+          "Lines": {
+            "11": 10,
+            "15": 10,
+            "16": 10,
+            "17": 10,
+            "18": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\Demo Console App\\Demo Console App\\Program.cs": {
+      "Demo_Console_App.Program": {
+        "System.Void Demo_Console_App.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\Demo Console App\\Demo Console App\\USDConverter.cs": {
+      "Demo_Console_App.USDConverter": {
+        "System.Decimal Demo_Console_App.USDConverter::Convert(System.Decimal)": {
+          "Lines": {
+            "12": 9,
+            "13": 9,
+            "14": 9
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
