@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Demo Console App</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>21e70ee2-9c60-468c-9d3c-19bc17b06dd9</ProjectGuid>
+  <FullPath>C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\Demo Console App.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\mranu\source\repos\unit-testing-demo\src\.sonarqube\conf\2\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\mranu\source\repos\unit-testing-demo\src\.sonarqube\out\2\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\mranu\source\repos\unit-testing-demo\src\.sonarqube\out\2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0</TargetFramework>
+</ProjectInfo>
