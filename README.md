@@ -37,3 +37,9 @@
 | InlineData       | It is used with Theory attribute to provide parameters |     
 | Fixture          | To share a context in a test class (singleton instance) |
 | CollectionFixture| To share context between multiple test classes |
+
+## Code Analysis ( Sonarqube )
+
+<img src="https://github.com/Anupam-/unit-testing-demo/blob/main/assets/sonar quality gate status.PNG?raw=true" alt="Coverage Status" width="450" height="550">
+
+<img src="https://github.com/Anupam-/unit-testing-demo/blob/main/assets/code quality issues.PNG?raw=true" alt="Code issues" width="450" height="550">
