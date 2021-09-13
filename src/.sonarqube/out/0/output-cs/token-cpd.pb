@@ -1,4 +1,30 @@
-Ö
+§
+ÖC:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\BadCodingExamples.cs
+	namespace 	
+Demo_Console_App
+ 
+. (
+CreditCardInterestCalculator 7
+{ 
+public		 
+
+class		 
+BadCodingExamples		 "
+{
+
+ 
+public 
+double 
+GetInterest !
+(! "
+)" #
+{ 	
+return 
+$num 
+; 
+} 	
+} 
+} Ö
 èC:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\CreditCardInterestCalcuator.cs
 	namespace 	
 Demo_Console_App

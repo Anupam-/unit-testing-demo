@@ -75,6 +75,48 @@
           }
         },
         {
+          "ruleId": "S3400",
+          "level": "warning",
+          "message": "Remove this method and declare a constant for this value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/mranu/source/repos/unit-testing-demo/src/Demo%20Console%20App/Demo%20Console%20App/CreditCardInterestCalculator/BadCodingExamples.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'GetInterest' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/mranu/source/repos/unit-testing-demo/src/Demo%20Console%20App/Demo%20Console%20App/CreditCardInterestCalculator/BadCodingExamples.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S3217",
           "level": "warning",
           "message": "Either change the type of 'card' to 'ICreditCard' or iterate on a generic collection of type 'CreditCard'.",
@@ -198,6 +240,22 @@
               "SonarWay",
               "MainSourceScope",
               "TestSourceScope"
+            ]
+          }
+        },
+        "S3400": {
+          "id": "S3400",
+          "shortDescription": "Methods should not return constants",
+          "fullDescription": "There’s no point in forcing the overhead of a method call for a method that always returns the same constant value. Even worse, the fact that a method call must be made will likely mislead developers who call the method thinking that something more is done. Declare a constant instead.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3400",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
             ]
           }
         }

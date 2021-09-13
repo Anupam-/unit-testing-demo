@@ -1,21 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CoverageSession>
-  <Summary numSequencePoints="89" visitedSequencePoints="41" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="46.06" branchCoverage="100" maxCyclomaticComplexity="22" minCyclomaticComplexity="22" visitedClasses="8" numClasses="10" visitedMethods="15" numMethods="19" />
+  <Summary numSequencePoints="92" visitedSequencePoints="41" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="44.56" branchCoverage="100" maxCyclomaticComplexity="23" minCyclomaticComplexity="23" visitedClasses="8" numClasses="11" visitedMethods="15" numMethods="20" />
   <Modules>
-    <Module hash="E3437884-D0AD-4D89-AF8F-AABAA9DC8922">
+    <Module hash="488F02D4-1118-455D-B90B-AF0BABEDAB09">
       <ModulePath>Demo Console App.dll</ModulePath>
-      <ModuleTime>2021-09-09T07:22:22</ModuleTime>
+      <ModuleTime>2021-09-09T07:27:10</ModuleTime>
       <ModuleName>Demo Console App</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\InterestCalculator.cs" />
         <File uid="2" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\Program.cs" />
         <File uid="3" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\USDConverter.cs" />
-        <File uid="4" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\CreditCardInterestCalcuator.cs" />
-        <File uid="5" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\InterestRateProvider.cs" />
-        <File uid="6" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCard.cs" />
-        <File uid="7" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCardHolder.cs" />
-        <File uid="8" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCards.cs" />
-        <File uid="9" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\Wallet.cs" />
+        <File uid="4" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\BadCodingExamples.cs" />
+        <File uid="5" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\CreditCardInterestCalcuator.cs" />
+        <File uid="6" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\InterestRateProvider.cs" />
+        <File uid="7" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCard.cs" />
+        <File uid="8" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCardHolder.cs" />
+        <File uid="9" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCards.cs" />
+        <File uid="10" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\Wallet.cs" />
       </Files>
       <Classes>
         <Class>
@@ -120,6 +121,25 @@
           </Methods>
         </Class>
         <Class>
+          <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="1" />
+          <FullName>Demo_Console_App.CreditCardInterestCalculator.BadCodingExamples</FullName>
+          <Methods>
+            <Method cyclomaticComplexity="1" nPathComplexity="1" sequenceCoverage="0" branchCoverage="100" isConstructor="False" isGetter="False" isSetter="False" isStatic="True">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken />
+              <Name>System.Double Demo_Console_App.CreditCardInterestCalculator.BadCodingExamples::GetInterest()</Name>
+              <FileRef uid="4" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="12" ordinal="0" sl="12" sc="1" el="12" ec="2" bec="0" bev="0" fileid="4" />
+                <SequencePoint vc="0" uspid="13" ordinal="1" sl="13" sc="1" el="13" ec="2" bec="0" bev="0" fileid="4" />
+                <SequencePoint vc="0" uspid="14" ordinal="2" sl="14" sc="1" el="14" ec="2" bec="0" bev="0" fileid="4" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="12" ec="1" el="14" bec="0" bev="0" fileid="4" xmlns:p8="xsi" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
           <Summary numSequencePoints="23" visitedSequencePoints="20" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="86.95" branchCoverage="100" maxCyclomaticComplexity="4" minCyclomaticComplexity="1" visitedClasses="1" numClasses="1" visitedMethods="3" numMethods="4" />
           <FullName>Demo_Console_App.CreditCardInterestCalculator.CreditCardInterestCalcuator</FullName>
           <Methods>
@@ -127,69 +147,69 @@
               <Summary numSequencePoints="12" visitedSequencePoints="12" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="4" minCyclomaticComplexity="4" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Void Demo_Console_App.CreditCardInterestCalculator.CreditCardInterestCalcuator::CalculateInterestForHolder(Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCardHolder)</Name>
-              <FileRef uid="4" />
+              <FileRef uid="5" />
               <SequencePoints>
-                <SequencePoint vc="6" uspid="27" ordinal="0" sl="27" sc="1" el="27" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="32" uspid="28" ordinal="1" sl="28" sc="1" el="28" ec="2" bec="2" bev="2" fileid="4" />
-                <SequencePoint vc="7" uspid="29" ordinal="2" sl="29" sc="1" el="29" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="45" uspid="30" ordinal="3" sl="30" sc="1" el="30" ec="2" bec="2" bev="2" fileid="4" />
-                <SequencePoint vc="12" uspid="31" ordinal="4" sl="31" sc="1" el="31" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="30" uspid="32" ordinal="5" sl="32" sc="1" el="32" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="12" uspid="33" ordinal="6" sl="33" sc="1" el="33" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="12" uspid="34" ordinal="7" sl="34" sc="1" el="34" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="12" uspid="35" ordinal="8" sl="35" sc="1" el="35" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="7" uspid="36" ordinal="9" sl="36" sc="1" el="36" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="7" uspid="37" ordinal="10" sl="37" sc="1" el="37" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="6" uspid="38" ordinal="11" sl="38" sc="1" el="38" ec="2" bec="0" bev="0" fileid="4" />
+                <SequencePoint vc="6" uspid="27" ordinal="0" sl="27" sc="1" el="27" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="32" uspid="28" ordinal="1" sl="28" sc="1" el="28" ec="2" bec="2" bev="2" fileid="5" />
+                <SequencePoint vc="7" uspid="29" ordinal="2" sl="29" sc="1" el="29" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="45" uspid="30" ordinal="3" sl="30" sc="1" el="30" ec="2" bec="2" bev="2" fileid="5" />
+                <SequencePoint vc="12" uspid="31" ordinal="4" sl="31" sc="1" el="31" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="30" uspid="32" ordinal="5" sl="32" sc="1" el="32" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="12" uspid="33" ordinal="6" sl="33" sc="1" el="33" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="12" uspid="34" ordinal="7" sl="34" sc="1" el="34" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="12" uspid="35" ordinal="8" sl="35" sc="1" el="35" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="7" uspid="36" ordinal="9" sl="36" sc="1" el="36" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="7" uspid="37" ordinal="10" sl="37" sc="1" el="37" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="6" uspid="38" ordinal="11" sl="38" sc="1" el="38" ec="2" bec="0" bev="0" fileid="5" />
               </SequencePoints>
               <BranchPoints>
-                <BranchPoint vc="7" uspid="28" ordinal="3" path="1" offset="197" offsetend="19" sl="28" fileid="4" />
-                <BranchPoint vc="12" uspid="30" ordinal="1" path="1" offset="155" offsetend="42" sl="30" fileid="4" />
-                <BranchPoint vc="7" uspid="30" ordinal="0" path="0" offset="155" offsetend="157" sl="30" fileid="4" />
-                <BranchPoint vc="6" uspid="28" ordinal="2" path="0" offset="197" offsetend="202" sl="28" fileid="4" />
+                <BranchPoint vc="7" uspid="28" ordinal="3" path="1" offset="197" offsetend="19" sl="28" fileid="5" />
+                <BranchPoint vc="12" uspid="30" ordinal="1" path="1" offset="155" offsetend="42" sl="30" fileid="5" />
+                <BranchPoint vc="7" uspid="30" ordinal="0" path="0" offset="155" offsetend="157" sl="30" fileid="5" />
+                <BranchPoint vc="6" uspid="28" ordinal="2" path="0" offset="197" offsetend="202" sl="28" fileid="5" />
               </BranchPoints>
-              <MethodPoint vc="12" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="27" ec="1" el="38" bec="0" bev="0" fileid="4" xmlns:p8="xsi" />
+              <MethodPoint vc="12" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="27" ec="1" el="38" bec="0" bev="0" fileid="5" xmlns:p8="xsi" />
             </Method>
             <Method cyclomaticComplexity="1" nPathComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="False" isGetter="False" isSetter="False" isStatic="True">
               <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Void Demo_Console_App.CreditCardInterestCalculator.CreditCardInterestCalcuator::CalculateInterestForCard(Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCard)</Name>
-              <FileRef uid="4" />
+              <FileRef uid="5" />
               <SequencePoints>
-                <SequencePoint vc="12" uspid="41" ordinal="0" sl="41" sc="1" el="41" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="12" uspid="42" ordinal="1" sl="42" sc="1" el="42" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="12" uspid="43" ordinal="2" sl="43" sc="1" el="43" ec="2" bec="0" bev="0" fileid="4" />
+                <SequencePoint vc="12" uspid="41" ordinal="0" sl="41" sc="1" el="41" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="12" uspid="42" ordinal="1" sl="42" sc="1" el="42" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="12" uspid="43" ordinal="2" sl="43" sc="1" el="43" ec="2" bec="0" bev="0" fileid="5" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="3" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="41" ec="1" el="43" bec="0" bev="0" fileid="4" xmlns:p8="xsi" />
+              <MethodPoint vc="3" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="41" ec="1" el="43" bec="0" bev="0" fileid="5" xmlns:p8="xsi" />
             </Method>
             <Method cyclomaticComplexity="1" nPathComplexity="1" sequenceCoverage="0" branchCoverage="100" isConstructor="True" isGetter="False" isSetter="False" isStatic="True">
               <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
               <MetadataToken />
               <Name>System.Void Demo_Console_App.CreditCardInterestCalculator.CreditCardInterestCalcuator::.ctor()</Name>
-              <FileRef uid="4" />
+              <FileRef uid="5" />
               <SequencePoints>
-                <SequencePoint vc="0" uspid="16" ordinal="0" sl="16" sc="1" el="16" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="0" uspid="17" ordinal="1" sl="17" sc="1" el="17" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="0" uspid="18" ordinal="2" sl="18" sc="1" el="18" ec="2" bec="0" bev="0" fileid="4" />
+                <SequencePoint vc="0" uspid="16" ordinal="0" sl="16" sc="1" el="16" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="17" ordinal="1" sl="17" sc="1" el="17" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="18" ordinal="2" sl="18" sc="1" el="18" ec="2" bec="0" bev="0" fileid="5" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="0" uspid="0" p8:type="SequencePoint" ordinal="2" offset="2" sc="0" sl="16" ec="1" el="18" bec="0" bev="0" fileid="4" xmlns:p8="xsi" />
+              <MethodPoint vc="0" uspid="0" p8:type="SequencePoint" ordinal="2" offset="2" sc="0" sl="16" ec="1" el="18" bec="0" bev="0" fileid="5" xmlns:p8="xsi" />
             </Method>
             <Method cyclomaticComplexity="1" nPathComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="True" isGetter="False" isSetter="False" isStatic="True">
               <Summary numSequencePoints="5" visitedSequencePoints="5" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Void Demo_Console_App.CreditCardInterestCalculator.CreditCardInterestCalcuator::.ctor(Demo_Console_App.CreditCardInterestCalculator.IInterestRateProvider)</Name>
-              <FileRef uid="4" />
+              <FileRef uid="5" />
               <SequencePoints>
-                <SequencePoint vc="6" uspid="20" ordinal="0" sl="20" sc="1" el="20" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="6" uspid="21" ordinal="1" sl="21" sc="1" el="21" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="6" uspid="22" ordinal="2" sl="22" sc="1" el="22" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="6" uspid="23" ordinal="3" sl="23" sc="1" el="23" ec="2" bec="0" bev="0" fileid="4" />
-                <SequencePoint vc="6" uspid="24" ordinal="4" sl="24" sc="1" el="24" ec="2" bec="0" bev="0" fileid="4" />
+                <SequencePoint vc="6" uspid="20" ordinal="0" sl="20" sc="1" el="20" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="6" uspid="21" ordinal="1" sl="21" sc="1" el="21" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="6" uspid="22" ordinal="2" sl="22" sc="1" el="22" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="6" uspid="23" ordinal="3" sl="23" sc="1" el="23" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="6" uspid="24" ordinal="4" sl="24" sc="1" el="24" ec="2" bec="0" bev="0" fileid="5" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="5" uspid="0" p8:type="SequencePoint" ordinal="3" offset="3" sc="0" sl="20" ec="1" el="24" bec="0" bev="0" fileid="4" xmlns:p8="xsi" />
+              <MethodPoint vc="5" uspid="0" p8:type="SequencePoint" ordinal="3" offset="3" sc="0" sl="20" ec="1" el="24" bec="0" bev="0" fileid="5" xmlns:p8="xsi" />
             </Method>
           </Methods>
         </Class>
@@ -201,35 +221,35 @@
               <Summary numSequencePoints="9" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
               <MetadataToken />
               <Name>System.Collections.Generic.IEnumerable`1&lt;System.Collections.Generic.KeyValuePair`2&lt;Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCardType,System.Double&gt;&gt; Demo_Console_App.CreditCardInterestCalculator.InterestRateProvider::GetInterestRates()</Name>
-              <FileRef uid="5" />
+              <FileRef uid="6" />
               <SequencePoints>
-                <SequencePoint vc="0" uspid="15" ordinal="0" sl="15" sc="1" el="15" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="16" ordinal="1" sl="16" sc="1" el="16" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="17" ordinal="2" sl="17" sc="1" el="17" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="18" ordinal="3" sl="18" sc="1" el="18" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="19" ordinal="4" sl="19" sc="1" el="19" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="20" ordinal="5" sl="20" sc="1" el="20" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="21" ordinal="6" sl="21" sc="1" el="21" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="23" ordinal="7" sl="23" sc="1" el="23" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="24" ordinal="8" sl="24" sc="1" el="24" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="15" ordinal="0" sl="15" sc="1" el="15" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="16" ordinal="1" sl="16" sc="1" el="16" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="17" ordinal="2" sl="17" sc="1" el="17" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="18" ordinal="3" sl="18" sc="1" el="18" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="19" ordinal="4" sl="19" sc="1" el="19" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="20" ordinal="5" sl="20" sc="1" el="20" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="21" ordinal="6" sl="21" sc="1" el="21" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="23" ordinal="7" sl="23" sc="1" el="23" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="24" ordinal="8" sl="24" sc="1" el="24" ec="2" bec="0" bev="0" fileid="6" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="0" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="15" ec="1" el="24" bec="0" bev="0" fileid="5" xmlns:p8="xsi" />
+              <MethodPoint vc="0" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="15" ec="1" el="24" bec="0" bev="0" fileid="6" xmlns:p8="xsi" />
             </Method>
             <Method cyclomaticComplexity="1" nPathComplexity="1" sequenceCoverage="0" branchCoverage="100" isConstructor="False" isGetter="False" isSetter="False" isStatic="True">
               <Summary numSequencePoints="5" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
               <MetadataToken />
               <Name>System.Collections.Generic.KeyValuePair`2&lt;Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCardType,System.Double&gt; Demo_Console_App.CreditCardInterestCalculator.InterestRateProvider::GetCard(System.Xml.Linq.XElement)</Name>
-              <FileRef uid="5" />
+              <FileRef uid="6" />
               <SequencePoints>
-                <SequencePoint vc="0" uspid="27" ordinal="0" sl="27" sc="1" el="27" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="28" ordinal="1" sl="28" sc="1" el="28" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="29" ordinal="2" sl="29" sc="1" el="29" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="30" ordinal="3" sl="30" sc="1" el="30" ec="2" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="31" ordinal="4" sl="31" sc="1" el="31" ec="2" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="27" ordinal="0" sl="27" sc="1" el="27" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="28" ordinal="1" sl="28" sc="1" el="28" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="29" ordinal="2" sl="29" sc="1" el="29" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="30" ordinal="3" sl="30" sc="1" el="30" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="31" ordinal="4" sl="31" sc="1" el="31" ec="2" bec="0" bev="0" fileid="6" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="0" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="27" ec="1" el="31" bec="0" bev="0" fileid="5" xmlns:p8="xsi" />
+              <MethodPoint vc="0" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="27" ec="1" el="31" bec="0" bev="0" fileid="6" xmlns:p8="xsi" />
             </Method>
           </Methods>
         </Class>
@@ -241,34 +261,34 @@
               <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Double Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCard::get_InterestRate()</Name>
-              <FileRef uid="6" />
+              <FileRef uid="7" />
               <SequencePoints>
-                <SequencePoint vc="24" uspid="13" ordinal="0" sl="13" sc="1" el="13" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="24" uspid="13" ordinal="0" sl="13" sc="1" el="13" ec="2" bec="0" bev="0" fileid="7" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="13" ec="1" el="13" bec="0" bev="0" fileid="6" xmlns:p8="xsi" />
+              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="13" ec="1" el="13" bec="0" bev="0" fileid="7" xmlns:p8="xsi" />
             </Method>
             <Method cyclomaticComplexity="1" nPathComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="False" isGetter="True" isSetter="False" isStatic="True">
               <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Double Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCard::get_Balance()</Name>
-              <FileRef uid="6" />
+              <FileRef uid="7" />
               <SequencePoints>
-                <SequencePoint vc="32" uspid="15" ordinal="0" sl="15" sc="1" el="15" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="32" uspid="15" ordinal="0" sl="15" sc="1" el="15" ec="2" bec="0" bev="0" fileid="7" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="15" ec="1" el="15" bec="0" bev="0" fileid="6" xmlns:p8="xsi" />
+              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="15" ec="1" el="15" bec="0" bev="0" fileid="7" xmlns:p8="xsi" />
             </Method>
             <Method cyclomaticComplexity="1" nPathComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="False" isGetter="True" isSetter="False" isStatic="True">
               <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Double Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCard::get_SimpleInterest()</Name>
-              <FileRef uid="6" />
+              <FileRef uid="7" />
               <SequencePoints>
-                <SequencePoint vc="26" uspid="17" ordinal="0" sl="17" sc="1" el="17" ec="2" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="26" uspid="17" ordinal="0" sl="17" sc="1" el="17" ec="2" bec="0" bev="0" fileid="7" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="2" offset="2" sc="0" sl="17" ec="1" el="17" bec="0" bev="0" fileid="6" xmlns:p8="xsi" />
+              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="2" offset="2" sc="0" sl="17" ec="1" el="17" bec="0" bev="0" fileid="7" xmlns:p8="xsi" />
             </Method>
           </Methods>
         </Class>
@@ -280,23 +300,23 @@
               <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Collections.Generic.IEnumerable`1&lt;Demo_Console_App.CreditCardInterestCalculator.Entities.Wallet&gt; Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCardHolder::get_Wallets()</Name>
-              <FileRef uid="7" />
+              <FileRef uid="8" />
               <SequencePoints>
-                <SequencePoint vc="26" uspid="11" ordinal="0" sl="11" sc="1" el="11" ec="2" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="26" uspid="11" ordinal="0" sl="11" sc="1" el="11" ec="2" bec="0" bev="0" fileid="8" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="11" ec="1" el="11" bec="0" bev="0" fileid="7" xmlns:p8="xsi" />
+              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="11" ec="1" el="11" bec="0" bev="0" fileid="8" xmlns:p8="xsi" />
             </Method>
             <Method cyclomaticComplexity="1" nPathComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="False" isGetter="True" isSetter="False" isStatic="True">
               <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Double Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCardHolder::get_TotalInterest()</Name>
-              <FileRef uid="7" />
+              <FileRef uid="8" />
               <SequencePoints>
-                <SequencePoint vc="24" uspid="13" ordinal="0" sl="13" sc="1" el="13" ec="2" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="24" uspid="13" ordinal="0" sl="13" sc="1" el="13" ec="2" bec="0" bev="0" fileid="8" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="13" ec="1" el="13" bec="0" bev="0" fileid="7" xmlns:p8="xsi" />
+              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="13" ec="1" el="13" bec="0" bev="0" fileid="8" xmlns:p8="xsi" />
             </Method>
           </Methods>
         </Class>
@@ -308,12 +328,12 @@
               <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCardType Demo_Console_App.CreditCardInterestCalculator.Entities.VisaCreditCard::get_Type()</Name>
-              <FileRef uid="8" />
+              <FileRef uid="9" />
               <SequencePoints>
-                <SequencePoint vc="18" uspid="13" ordinal="0" sl="13" sc="1" el="13" ec="2" bec="0" bev="0" fileid="8" />
+                <SequencePoint vc="18" uspid="13" ordinal="0" sl="13" sc="1" el="13" ec="2" bec="0" bev="0" fileid="9" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="13" ec="1" el="13" bec="0" bev="0" fileid="8" xmlns:p8="xsi" />
+              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="13" ec="1" el="13" bec="0" bev="0" fileid="9" xmlns:p8="xsi" />
             </Method>
           </Methods>
         </Class>
@@ -325,12 +345,12 @@
               <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>Demo_Console_App.CreditCardInterestCalculator.Entities.CreditCardType Demo_Console_App.CreditCardInterestCalculator.Entities.MasterCardCreditCard::get_Type()</Name>
-              <FileRef uid="8" />
+              <FileRef uid="9" />
               <SequencePoints>
-                <SequencePoint vc="36" uspid="21" ordinal="0" sl="21" sc="1" el="21" ec="2" bec="0" bev="0" fileid="8" />
+                <SequencePoint vc="36" uspid="21" ordinal="0" sl="21" sc="1" el="21" ec="2" bec="0" bev="0" fileid="9" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="21" ec="1" el="21" bec="0" bev="0" fileid="8" xmlns:p8="xsi" />
+              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="21" ec="1" el="21" bec="0" bev="0" fileid="9" xmlns:p8="xsi" />
             </Method>
           </Methods>
         </Class>
@@ -342,23 +362,23 @@
               <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Collections.Generic.IEnumerable`1&lt;Demo_Console_App.CreditCardInterestCalculator.Entities.ICreditCard&gt; Demo_Console_App.CreditCardInterestCalculator.Entities.Wallet::get_CreditCards()</Name>
-              <FileRef uid="9" />
+              <FileRef uid="10" />
               <SequencePoints>
-                <SequencePoint vc="19" uspid="11" ordinal="0" sl="11" sc="1" el="11" ec="2" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="19" uspid="11" ordinal="0" sl="11" sc="1" el="11" ec="2" bec="0" bev="0" fileid="10" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="11" ec="1" el="11" bec="0" bev="0" fileid="9" xmlns:p8="xsi" />
+              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="11" ec="1" el="11" bec="0" bev="0" fileid="10" xmlns:p8="xsi" />
             </Method>
             <Method cyclomaticComplexity="1" nPathComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="False" isGetter="True" isSetter="False" isStatic="True">
               <Summary numSequencePoints="1" visitedSequencePoints="1" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken />
               <Name>System.Double Demo_Console_App.CreditCardInterestCalculator.Entities.Wallet::get_TotalInterest()</Name>
-              <FileRef uid="9" />
+              <FileRef uid="10" />
               <SequencePoints>
-                <SequencePoint vc="37" uspid="13" ordinal="0" sl="13" sc="1" el="13" ec="2" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="37" uspid="13" ordinal="0" sl="13" sc="1" el="13" ec="2" bec="0" bev="0" fileid="10" />
               </SequencePoints>
               <BranchPoints />
-              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="13" ec="1" el="13" bec="0" bev="0" fileid="9" xmlns:p8="xsi" />
+              <MethodPoint vc="1" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="13" ec="1" el="13" bec="0" bev="0" fileid="10" xmlns:p8="xsi" />
             </Method>
           </Methods>
         </Class>

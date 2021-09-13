@@ -1,4 +1,5 @@
-﻿C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\CreditCardInterestCalcuator.cs
+﻿C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\BadCodingExamples.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\CreditCardInterestCalcuator.cs
 C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCard.cs
 C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCardHolder.cs
 C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCards.cs
