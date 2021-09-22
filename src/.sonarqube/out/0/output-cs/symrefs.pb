@@ -1,41 +1,46 @@
- 
+Î
 …C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\BadCodingExamples.cs
 
-		 "
+
+
+ "
 
- !²
+ /
+
+ "
+
+  ,
+ # ,¦
 C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\CreditCardInterestCalcuator.cs
 
 
 
  ,
-.. /
+** /
 
 / L
-) >  )
-F T    '
+) >  )
+F T  '
 
-	 $
+	 $
+; O /
 
-	 $
-; O /
-
- (
-: @ #$$ 
+ (
+: @ #   
 (
-   &"" $$ "2
-    	  < @!! """ !
-  . /  3 4
-(( &!! (
-((2 6** ** **( ,
+   &    "2
+  	< @ " !
+. /3 4
+$$ & (
+$$2 6&& && &&( ,
 
-00 
+,, 
 
-00+ /
+,,+ /
 
-11 !
+-- !
 
-113 9Æ
+--3 9Æ
 ‡C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCard.cs
 
 		 !
@@ -126,22 +131,7 @@ iC:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console
   
 ) 8  /
 > CH M
- . 6œ
-^C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\Program.cs
-
-		
- 
-
- 
-
-" &
- "  2
- 4 =
-! ,,, (
- ,,* 4-- //8 B
--- .. 
-
-.. ..C D“
+ . 6“
 cC:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\USDConverter.cs
 
 		 

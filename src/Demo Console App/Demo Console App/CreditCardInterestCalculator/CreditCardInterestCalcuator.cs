@@ -13,10 +13,6 @@ namespace Demo_Console_App.CreditCardInterestCalculator
 
 		private  readonly IEnumerable<KeyValuePair<CreditCardType, double>> _interestRates;
 
-		public CreditCardInterestCalcuator() : this(new InterestRateProvider())
-		{
-		}
-
 		public CreditCardInterestCalcuator(IInterestRateProvider interestRateProvider)
 		{
 			_interestRateProvider = interestRateProvider;

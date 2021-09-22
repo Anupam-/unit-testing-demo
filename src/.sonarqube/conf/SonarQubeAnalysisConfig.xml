@@ -42,7 +42,7 @@
     <Property Name="sonar.jsp.file.suffixes">.jsp,.jspf,.jspx</Property>
     <Property Name="sonar.javascript.maxFileSize">1000</Property>
     <Property Name="sonar.javascript.environments">amd, applescript, atomtest, browser, commonjs, couch, embertest, flow, greasemonkey, jasmine, jest, jquery, meteor, mocha, mongo, nashorn, node, phantomjs, prototypejs, protractor, qunit, rhino, serviceworker, shared-node-browser, shelljs, webextensions, worker, wsh, yui</Property>
-    <Property Name="sonar.scm.disabled">false</Property>
+    <Property Name="sonar.scm.disabled">true</Property>
     <Property Name="sonar.ruby.exclusions">**/vendor/**</Property>
     <Property Name="sonar.auth.saml.enabled">false</Property>
     <Property Name="sonar.vbnet.file.suffixes">.vb</Property>
@@ -101,11 +101,12 @@
     <Property Name="sonaranalyzer-vbnet.pluginKey">vbnet</Property>
     <Property Name="sonar.updatecenter.url">https://update.sonarsource.org/update-center.properties</Property>
     <Property Name="sonar.core.id">BF41A1F2-AXu6oHWUW8RE2wELslDY</Property>
-    <Property Name="sonar.core.startTime">09-09-2021 10:31:51 AM</Property>
-    <Property Name="sonar.cs.opencover.reportsPaths">**/coverage.opencover.xml</Property>
-    <Property Name="sonar.cs.opencover.it.reportsPaths">**/coverage.opencover.xml</Property>
+    <Property Name="sonar.core.startTime">22-09-2021 11:14:04 AM</Property>
   </ServerSettings>
-  <LocalSettings />
+  <LocalSettings>
+    <Property Name="sonar.cs.opencover.reportsPaths">**/coverage.opencover.xml</Property>
+    <Property Name="sonar.coverage.exclusions">Demo Console App/Demo Console App/CreditCardInterestCalculator/Data/*.xml, Demo xUnit App/coverage.opencover.xml</Property>
+  </LocalSettings>
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>

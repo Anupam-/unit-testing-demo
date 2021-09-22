@@ -1,30 +1,70 @@
-§
+¨	
 ÖC:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\BadCodingExamples.cs
-	namespace 	
-Demo_Console_App
+	namespace 	
+Demo_Console_App
  
-. (
-CreditCardInterestCalculator 7
-{ 
-public		 
-
-class		 
-BadCodingExamples		 "
-{
+. (
+CreditCardInterestCalculator 7
+{		 
+public
 
- 
-public 
-double 
-GetInterest !
-(! "
-)" #
-{ 	
-return 
-$num 
-; 
-} 	
-} 
-} Ö
+ 
+
+class
+
+ 
+BadCodingExamples
+
+ "
+{ 
+public 
+static 
+double 
+GetDefaultInterest /
+(/ 0
+)0 1
+{ 	
+return 
+$num 
+; 
+} 	
+public 
+static 
+Guid 
+GetGuid "
+(" #
+)# $
+{ 	
+return 
+new 
+Guid 
+( 
+) 
+; 
+} 	
+public 
+static 
+	IPAddress 
+GetIPAddress  ,
+(, -
+)- .
+{ 	
+var 
+	ipaddress 
+= 
+$str '
+;' (
+return 
+	IPAddress 
+. 
+Parse "
+(" #
+	ipaddress# ,
+), -
+;- .
+} 	
+} 
+} ¸
 èC:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\CreditCardInterestCalcuator.cs
 	namespace 	
 Demo_Console_App
@@ -70,161 +110,147 @@
 ;T U
 public '
 CreditCardInterestCalcuator	 $
-($ %
-)% &
-:' (
-this) -
-(- .
-new. 1 
-InterestRateProvider2 F
-(F G
-)G H
-)H I
-{ 
-} 
-public '
-CreditCardInterestCalcuator	 $
-($ %!
-IInterestRateProvider% : 
-interestRateProvider; O
-)O P
-{ !
-_interestRateProvider 
-=  
-interestRateProvider /
-;/ 0
-_interestRates 
-= !
-_interestRateProvider )
-.) *
-GetInterestRates* :
-(: ;
-); <
-;< =
-} 
-public 
-void	 &
-CalculateInterestForHolder (
-(( )
-CreditCardHolder) 9
-person: @
-)@ A
-{ 
-foreach 
+($ %!
+IInterestRateProvider% : 
+interestRateProvider; O
+)O P
+{ !
+_interestRateProvider 
+=  
+interestRateProvider /
+;/ 0
+_interestRates 
+= !
+_interestRateProvider )
+.) *
+GetInterestRates* :
+(: ;
+); <
+;< =
+} 
+public 
+void	 &
+CalculateInterestForHolder (
+(( )
+CreditCardHolder) 9
+person: @
+)@ A
+{ 
+foreach 
 
-( 
-Wallet 
-wallet 
-in 
-person #
-.# $
-Wallets$ +
-)+ ,
-{ 
-foreach 
-( 
+( 
+Wallet 
+wallet 
+in 
+person #
+.# $
+Wallets$ +
+)+ ,
+{ 
+foreach 
+( 
 
-CreditCard 
-card 
-in 
-wallet  &
-.& '
-CreditCards' 2
-)2 3
-{ 
-card   	
-.  	 
+CreditCard 
+card 
+in 
+wallet  &
+.& '
+CreditCards' 2
+)2 3
+{ 
+card 	
+.	 
 
-InterestRate  
+InterestRate
  
-=   
-_interestRates   '
-.  ' (
-First  ( -
-(  - .
-r  . /
-=>  0 2
-r  3 4
-.  4 5
-Key  5 8
-==  9 ;
-card  < @
-.  @ A
-Type  A E
-)  E F
-.  F G
-Value  G L
-;  L M$
-CalculateInterestForCard!! 
-(!! 
-card!! "
-)!!" #
-;!!# $
-wallet"" 
-."" 
-TotalInterest"" 
-+="" 
-card"" !
-.""! "
-SimpleInterest""" 0
-;""0 1
-}## 
-person$$ 
+= 
+_interestRates '
+.' (
+First( -
+(- .
+r. /
+=>0 2
+r3 4
+.4 5
+Key5 8
+==9 ;
+card< @
+.@ A
+TypeA E
+)E F
+.F G
+ValueG L
+;L M$
+CalculateInterestForCard 
+( 
+card "
+)" #
+;# $
+wallet 
+. 
+TotalInterest 
++= 
+card !
+.! "
+SimpleInterest" 0
+;0 1
+} 
+person   
 
-.$$
+.  
  
-TotalInterest$$ 
-+=$$ 
-wallet$$ "
-.$$" #
-TotalInterest$$# 0
-;$$0 1
-}%% 
-}&& 
-public(( 
-void((	 $
-CalculateInterestForCard(( &
-(((& '
+TotalInterest   
++=   
+wallet   "
+.  " #
+TotalInterest  # 0
+;  0 1
+}!! 
+}"" 
+public$$ 
+void$$	 $
+CalculateInterestForCard$$ &
+($$& '
 
-CreditCard((' 1
-card((2 6
-)((6 7
-{)) 
-card** 
-.** 
-SimpleInterest** 
-=** 
-card** 
-.** 
-Balance** %
-***& '
-card**( ,
-.**, -
-InterestRate**- 9
-;**9 :
-}++ 
-},, 
-public.. 
-	interface.. )
-ICreditCardInterestCalculator.. /
-{// 
-void00 $
-CalculateInterestForCard00 
-(00  
+CreditCard$$' 1
+card$$2 6
+)$$6 7
+{%% 
+card&& 
+.&& 
+SimpleInterest&& 
+=&& 
+card&& 
+.&& 
+Balance&& %
+*&&& '
+card&&( ,
+.&&, -
+InterestRate&&- 9
+;&&9 :
+}'' 
+}(( 
+public** 
+	interface** )
+ICreditCardInterestCalculator** /
+{++ 
+void,, $
+CalculateInterestForCard,, 
+(,,  
 
-CreditCard00  *
-card00+ /
-)00/ 0
-;000 1
-void11 &
-CalculateInterestForHolder11 !
-(11! "
-CreditCardHolder11" 2
-person113 9
-)119 :
-;11: ;
-}22 
-}33 √
+CreditCard,,  *
+card,,+ /
+),,/ 0
+;,,0 1
+void-- &
+CalculateInterestForHolder-- !
+(--! "
+CreditCardHolder--" 2
+person--3 9
+)--9 :
+;--: ;
+}.. 
+}// √
 áC:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCard.cs
 	namespace 	
 Demo_Console_App
@@ -764,207 +790,7 @@ iC:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console
 ;7 8
 } 	
 } 
-} Œ
-^C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\Program.cs
-	namespace 	
-Demo_Console_App
- 
-{ 
-class		 	
-Program		
- 
-{
-
- 
-static 
-void 
-Main 
-( 
-string 
-[  
-]  !
-args" &
-)& '
-{ 	
-var 
-interestCalculator "
-=# $
-new% (
-InterestCalculator) ;
-(; <
-new< ?
-USDConverter@ L
-(L M
-)M N
-)N O
-;O P
-decimal 
-	interest1 
-= 
-interestCalculator  2
-.2 3
-	Calculate3 <
-(< =
-$num= B
-,B C
-$numD E
-)E F
-;F G
-Console 
-. 
-	WriteLine 
-( 
-$"  
-$str  3
-{3 4
-	interest14 =
-}= >
-"> ?
-)? @
-;@ A
-Console 
-. 
-	WriteLine 
-( 
-$str \
-)\ ]
-;] ^)
-ICreditCardInterestCalculator  
-interestCal! ,
-=- .
-new/ 2'
-CreditCardInterestCalcuator3 N
-(N O
-)O P
-;P Q
-var 
-
-cardHolder 
-= 
-new 
-CreditCardHolder (
-{ 
-Wallets 
-= 
-new 
-List 
-< 
-Wallet 
-> 
-{ 
-new 
-Wallet	 
-{ 
-CreditCards 
-= 
-new 
-List 
-< 
-
-CreditCard '
->' (
-{ 
-new 
-
-VisaCreditCard 
-{ 
-Balance #
-=$ %
-$num& )
-}* +
-,+ ,
-}   
-}!! 
-,!! 
-new"" 
-Wallet""	 
-{## 
-CreditCards$$ 
-=$$ 
-new$$ 
-List$$ 
-<$$ 
-
-CreditCard$$ '
->$$' (
-{%% 
-new&& 
- 
-MasterCardCreditCard&& 
-{&&  !
-Balance&&" )
-=&&* +
-$num&&, /
-}&&0 1
-,&&1 2
-}'' 
-}(( 
-})) 
-}** 
-;** 
-interestCal,, 
-.,, &
-CalculateInterestForHolder,, )
-(,,) *
-
-cardHolder,,* 4
-),,4 5
-;,,5 6
-var-- 
-wallets-- 
-=-- 
-
-cardHolder-- 
-.-- 
-Wallets-- #
-.--# $
-ToList--$ *
-(--* +
-)--+ ,
-;--, -
-wallets.. 
-
-...
- 
-ForEach.. 
-(.. 
-w.. 
-=>.. 
-Console.. 
-...  
-	WriteLine..  )
-(..) *
-$"..* ,
-$str.., B
-{..B C
-w..C D
-...D E
-TotalInterest..E R
-}..R S
-"..S T
-)..T U
-)..U V
-;..V W
-Console// 
-
-.//
- 
-	WriteLine// 
-(// 
-$"// 
-$str// 7
-{//7 8
-
-cardHolder//8 B
-.//B C
-TotalInterest//C P
-}//P Q
-"//Q R
-)//R S
-;//S T
-}00 
-}11 
-}22 Ï
+} Ï
 cC:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\USDConverter.cs
 	namespace 	
 Demo_Console_App

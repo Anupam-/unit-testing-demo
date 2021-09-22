@@ -2,6 +2,10 @@
 <AnalysisInput>
   <Settings>
     <Setting>
+      <Key>sonar.cs.opencover.reportsPaths</Key>
+      <Value>**/coverage.opencover.xml</Value>
+    </Setting>
+    <Setting>
       <Key>sonar.cs.ignoreHeaderComments</Key>
       <Value>true</Value>
     </Setting>
@@ -16,14 +20,6 @@
     <Setting>
       <Key>sonar.cs.roslyn.ignoreIssues</Key>
       <Value>false</Value>
-    </Setting>
-    <Setting>
-      <Key>sonar.cs.opencover.reportsPaths</Key>
-      <Value>**/coverage.opencover.xml</Value>
-    </Setting>
-    <Setting>
-      <Key>sonar.cs.opencover.it.reportsPaths</Key>
-      <Value>**/coverage.opencover.xml</Value>
     </Setting>
   </Settings>
   <Rules>

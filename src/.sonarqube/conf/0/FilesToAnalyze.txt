@@ -9,6 +9,5 @@ C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console 
 C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\InterestRateProvider.cs
 C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\ICurrencyConverter.cs
 C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\InterestCalculator.cs
-C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\Program.cs
 C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\USDConverter.cs
 C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Data\InterestRates.xml

@@ -1,4 +1,16 @@
-½
+Í
+YC:\Users\mranu\source\repos\unit-testing-demo\src\Demo xUnit App\BadCodingExaplesTests.cs
+
+ &
+
+ #
+  
+
+ 
+ !! 
+
+%% $
+(( ,, ½
 dC:\Users\mranu\source\repos\unit-testing-demo\src\Demo xUnit App\CreditCardInterestCalcuatorTests.cs
 
  12
@@ -17,14 +29,14 @@ dC:\Users\mranu\source\repos\unit-testing-demo\src\Demo xUnit App\CreditCardInte
 MM dd, 6ff $mm 
 ff ii jj 
 
-„„ rr #
+‹‹ rr #
 
 ss <(
 ssN Xww, 6zz {{ 
 ssa ozzA O
 	ssx Š{{1 C
 
-†† ò
+ ò
 jC:\Users\mranu\source\repos\unit-testing-demo\src\Demo xUnit App\InterestCalculatorTestFluentAssertions.cs
 
  7
@@ -70,4 +82,11 @@ bC:\Users\mranu\source\repos\unit-testing-demo\src\Demo xUnit App\InterestCalcul
 
  6
    
- !! "
+ !! "£
+]C:\Users\mranu\source\repos\unit-testing-demo\src\Demo xUnit App\InterestRateProviderTests.cs
+
+ *
+
+ '
+ $ ,
+  

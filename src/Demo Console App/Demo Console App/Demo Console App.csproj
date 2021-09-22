@@ -9,9 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="CreditCardInterestCalculator\Data\InterestRates.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <SonarQubeSetting Include="sonar.coverage.exclusions">
+      <Value>**/*.xml</Value>
+    </SonarQubeSetting>
   </ItemGroup>
 
 </Project>

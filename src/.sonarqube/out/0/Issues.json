@@ -18,12 +18,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/mranu/source/repos/unit-testing-demo/src/Demo%20Console%20App/Demo%20Console%20App/Program.cs",
+                "uri": "file:///C:/Users/mranu/source/repos/unit-testing-demo/src/Demo%20Console%20App/Demo%20Console%20App/CreditCardInterestCalculator/BadCodingExamples.cs",
                 "region": {
-                  "startLine": 9,
-                  "startColumn": 11,
-                  "endLine": 9,
-                  "endColumn": 18
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 35
                 }
               }
             }
@@ -83,10 +83,10 @@
               "resultFile": {
                 "uri": "file:///C:/Users/mranu/source/repos/unit-testing-demo/src/Demo%20Console%20App/Demo%20Console%20App/CreditCardInterestCalculator/BadCodingExamples.cs",
                 "region": {
-                  "startLine": 11,
-                  "startColumn": 23,
-                  "endLine": 11,
-                  "endColumn": 34
+                  "startLine": 12,
+                  "startColumn": 30,
+                  "endLine": 12,
+                  "endColumn": 48
                 }
               }
             }
@@ -96,18 +96,18 @@
           }
         },
         {
-          "ruleId": "CA1822",
-          "level": "note",
-          "message": "Member 'GetInterest' does not access instance data and can be marked as static",
+          "ruleId": "S4581",
+          "level": "warning",
+          "message": "Use 'Guid.NewGuid()' or 'Guid.Empty' or add arguments to this Guid instantiation.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/mranu/source/repos/unit-testing-demo/src/Demo%20Console%20App/Demo%20Console%20App/CreditCardInterestCalculator/BadCodingExamples.cs",
                 "region": {
-                  "startLine": 11,
-                  "startColumn": 23,
-                  "endLine": 11,
-                  "endColumn": 34
+                  "startLine": 19,
+                  "startColumn": 20,
+                  "endLine": 19,
+                  "endColumn": 30
                 }
               }
             }
@@ -125,9 +125,9 @@
               "resultFile": {
                 "uri": "file:///C:/Users/mranu/source/repos/unit-testing-demo/src/Demo%20Console%20App/Demo%20Console%20App/CreditCardInterestCalculator/CreditCardInterestCalcuator.cs",
                 "region": {
-                  "startLine": 30,
+                  "startLine": 26,
                   "startColumn": 14,
-                  "endLine": 30,
+                  "endLine": 26,
                   "endColumn": 24
                 }
               }
@@ -256,6 +256,23 @@
               "C#",
               "SonarWay",
               "MainSourceScope"
+            ]
+          }
+        },
+        "S4581": {
+          "id": "S4581",
+          "shortDescription": "\"new Guid()\" should not be used",
+          "fullDescription": "When the syntax new Guid() (i.e. parameterless instantiation) is used, it must be that one of three things is wanted:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4581",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
             ]
           }
         }

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -28,6 +28,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Demo Console App\Demo Console App\Demo Console App.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="CreditCardInterestCalculator\Data\InterestRates.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
