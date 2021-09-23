@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="65" visitedSequencePoints="65" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="23" minCyclomaticComplexity="23" visitedClasses="10" numClasses="10" visitedMethods="20" numMethods="20" />
   <Modules>
-    <Module hash="DC752BA6-F224-48F3-97D3-A808379D3E13">
+    <Module hash="61D3E0B0-63DA-4FE0-A206-ABF1F67ACE1E">
       <ModulePath>Demo Console App.dll</ModulePath>
-      <ModuleTime>2021-09-23T09:26:24</ModuleTime>
+      <ModuleTime>2021-09-23T12:28:06</ModuleTime>
       <ModuleName>Demo Console App</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\InterestCalculator.cs" />

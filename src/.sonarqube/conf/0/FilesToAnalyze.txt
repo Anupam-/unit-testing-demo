@@ -1,0 +1,13 @@
+﻿C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\BadCodingExamples.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\CreditCardInterestCalcuator.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCard.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCardHolder.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCards.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\CreditCardType.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\ICreditCard.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Entities\Wallet.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\InterestRateProvider.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\ICurrencyConverter.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\InterestCalculator.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\USDConverter.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\CreditCardInterestCalculator\Data\InterestRates.xml

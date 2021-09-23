@@ -4,7 +4,7 @@ dotnet sonarscanner begin -k:"Demo-Unit-Test-Project" -d:sonar.login="1364ba86ba
 
 dotnet build
 
-dotnet test "Demo xUnit App/Demo xUnit App.csproj" --no-build --no-restore  -p:CollectCoverage=true -p:CoverletOutputFormat=opencover -p:CoverletOutput="TestResults/coverage.opencover.xml" -p:Exclude=\"[Demo_xUnit_App.*]" -p:ExcludeByFile="**/*.xml" --logger "trx;LogFileName=testresults.trx"
+dotnet test "Demo xUnit App/Demo xUnit App.csproj" --no-build --no-restore --logger "trx;LogFileName=testresults.trx" -p:CollectCoverage=true -p:CoverletOutputFormat=opencover -p:CoverletOutput="TestResults/coverage.opencover.xml" -p:Exclude=\"[Demo_xUnit_App.*]" -p:ExcludeByFile="**/*.xml"
 
 dotnet sonarscanner end -d:sonar.login="1364ba86ba6c6186f5d8cf023487ca87a324dde6"
 
