@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Demo Console App/1.0.0": {
+        "runtime": {
+          "Demo Console App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo Console App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

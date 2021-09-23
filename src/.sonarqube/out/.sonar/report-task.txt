@@ -1,6 +1,0 @@
-projectKey=Demo-Unit-Test-Project
-serverUrl=http://localhost:9000
-serverVersion=9.0.1.46107
-dashboardUrl=http://localhost:9000/dashboard?id=Demo-Unit-Test-Project
-ceTaskId=AXwM_gpXmBl0QxdBBXaB
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXwM_gpXmBl0QxdBBXaB
