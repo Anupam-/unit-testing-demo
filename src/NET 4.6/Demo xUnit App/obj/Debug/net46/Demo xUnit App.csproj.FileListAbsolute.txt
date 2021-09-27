@@ -1,0 +1,26 @@
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\net46\Demo xUnit App.csproj.AssemblyReference.cache
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\net46\Demo xUnit App.AssemblyInfoInputs.cache
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\net46\Demo xUnit App.AssemblyInfo.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\net46\Demo xUnit App.csproj.CoreCompileInputs.cache
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\xunit.abstractions.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\xunit.runner.visualstudio.testadapter.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\xunit.runner.reporters.net452.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\xunit.runner.utility.net452.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\CreditCardInterestCalculator\Data\InterestRates.xml
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\Demo xUnit App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\Demo xUnit App.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\Castle.Core.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\FluentAssertions.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\Moq.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\System.Threading.Tasks.Extensions.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\System.ValueTuple.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\xunit.assert.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\xunit.core.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\xunit.execution.desktop.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\Demo Console App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\net46\Demo Console App.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\net46\Demo xUnit App.csproj.CopyComplete
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\net46\Demo xUnit App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\net46\Demo xUnit App.pdb

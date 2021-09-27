@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="f91cc272-6b22-40e5-ba4f-f39acf8b76e3" name="mranu@LAPTOP-QIVJ8REM 2021-09-27 15:43:25" runUser="LAPTOP-QIVJ8REM\mranu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-09-27T15:43:25.2878342+05:30" queuing="2021-09-27T15:43:25.2878351+05:30" start="2021-09-27T15:43:24.1249230+05:30" finish="2021-09-27T15:43:25.3403514+05:30" />
+  <TestSettings name="default" id="54baf17c-8e63-4ab3-9868-7db5272991c0">
+    <Deployment runDeploymentRoot="mranu_LAPTOP-QIVJ8REM_2021-09-27_15_43_25" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="5bd2f9da-3868-40a8-bfae-08a09031562a" testId="7ea2d1a0-99ec-17a0-fad1-2403c801339e" testName="Demo_xUnit_App.InterestCalculatorTestFluentAssertions.CalculateInteestFor1Year" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0034192" startTime="2021-09-27T15:43:25.2284967+05:30" endTime="2021-09-27T15:43:25.2284970+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5bd2f9da-3868-40a8-bfae-08a09031562a" />
+    <UnitTestResult executionId="d37f89c6-69d0-4fa3-8681-2aa7cf6a255a" testId="3b13d860-e13b-bc2d-0024-39ca749ce2f6" testName="Demo_xUnit_App.BadCodingExaplesTests.GetIPAddressTest" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0005961" startTime="2021-09-27T15:43:25.2523425+05:30" endTime="2021-09-27T15:43:25.2523427+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d37f89c6-69d0-4fa3-8681-2aa7cf6a255a" />
+    <UnitTestResult executionId="7670e38a-9a61-491b-864d-a9b828951236" testId="b2f9365d-886a-4a7a-050e-2ba5825d9ec9" testName="Demo_xUnit_App.BadCodingExaplesTests.GetInterestTest" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0034016" startTime="2021-09-27T15:43:25.2284479+05:30" endTime="2021-09-27T15:43:25.2284491+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7670e38a-9a61-491b-864d-a9b828951236" />
+    <UnitTestResult executionId="76041287-e304-4a8e-9e1c-2434b51b5966" testId="397acd57-13bb-b1dc-8c6a-8f4b9af67c8d" testName="Demo_xUnit_App.InterestCalculatorTestUsingMoq.TestIfCurrencyConverterReturnsZero" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0650227" startTime="2021-09-27T15:43:25.2769712+05:30" endTime="2021-09-27T15:43:25.2769721+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="76041287-e304-4a8e-9e1c-2434b51b5966" />
+    <UnitTestResult executionId="0fd0a102-6991-45ff-b16f-82fb26fecf26" testId="33b7df87-46b2-fb3f-c03e-ff49d1a6b723" testName="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestFor2Year" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0001237" startTime="2021-09-27T15:43:25.2522874+05:30" endTime="2021-09-27T15:43:25.2522875+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0fd0a102-6991-45ff-b16f-82fb26fecf26" />
+    <UnitTestResult executionId="7da8e691-c068-4f93-bd21-e53861cb03cb" testId="c38b7cd8-a491-8463-6a59-a42452a81f1a" testName="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 0, amount: 0, years: 4)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0000041" startTime="2021-09-27T15:43:25.2520168+05:30" endTime="2021-09-27T15:43:25.2520177+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7da8e691-c068-4f93-bd21-e53861cb03cb" />
+    <UnitTestResult executionId="6b18f342-2504-47f9-a49a-a512a7500b91" testId="f8d7f379-9766-297e-08ac-861e2fd5f258" testName="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 36000, amount: 200000, years: 3)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0034014" startTime="2021-09-27T15:43:25.2240700+05:30" endTime="2021-09-27T15:43:25.2241557+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b18f342-2504-47f9-a49a-a512a7500b91" />
+    <UnitTestResult executionId="d68596ee-d2c6-488f-96ef-0634e4aa3623" testId="6e86d467-d59d-57d1-e26b-cf3d7519a62b" testName="Demo_xUnit_App.BadCodingExaplesTests.GetGuidTest" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0031911" startTime="2021-09-27T15:43:25.2523007+05:30" endTime="2021-09-27T15:43:25.2523008+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d68596ee-d2c6-488f-96ef-0634e4aa3623" />
+    <UnitTestResult executionId="311e1f2d-69ab-433a-9c2a-083363787e36" testId="09244a7a-76b4-0135-5d3d-9dd3b880ac51" testName="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 3000, amount: 50000, years: 1)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0000034" startTime="2021-09-27T15:43:25.2521773+05:30" endTime="2021-09-27T15:43:25.2521776+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="311e1f2d-69ab-433a-9c2a-083363787e36" />
+    <UnitTestResult executionId="438fa8bb-35ef-4e74-b3cc-8b277244e4fd" testId="8a4101e1-6acd-0f44-5a93-9d9da3702dd0" testName="Demo_xUnit_App.CreditCardInterestCalcuatorTests.Calculate_Wallet_And_CardHolder_Interest(cardHolder: CreditCardHolder { TotalInterest = 0, Wallets = [Wallet { ... }] }, walletInterest: 105.5545, cardHolderInterest: 105.5545)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0000289" startTime="2021-09-27T15:43:25.2829961+05:30" endTime="2021-09-27T15:43:25.2829963+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="438fa8bb-35ef-4e74-b3cc-8b277244e4fd" />
+    <UnitTestResult executionId="89e81d39-4d19-4940-8899-7ee5dd945ab2" testId="8a4101e1-6acd-0f44-5a93-9d9da3702dd0" testName="Demo_xUnit_App.CreditCardInterestCalcuatorTests.Calculate_Wallet_And_CardHolder_Interest(cardHolder: CreditCardHolder { TotalInterest = 0, Wallets = [Wallet { ... }] }, walletInterest: 15, cardHolderInterest: 15)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0004272" startTime="2021-09-27T15:43:25.2828396+05:30" endTime="2021-09-27T15:43:25.2828415+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="89e81d39-4d19-4940-8899-7ee5dd945ab2" />
+    <UnitTestResult executionId="f479fa60-8513-4957-aa1b-6454b6a297eb" testId="8a4101e1-6acd-0f44-5a93-9d9da3702dd0" testName="Demo_xUnit_App.CreditCardInterestCalcuatorTests.Calculate_Wallet_And_CardHolder_Interest(cardHolder: CreditCardHolder { TotalInterest = 0, Wallets = [Wallet { ... }] }, walletInterest: 30, cardHolderInterest: 30)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0000968" startTime="2021-09-27T15:43:25.2829678+05:30" endTime="2021-09-27T15:43:25.2829687+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f479fa60-8513-4957-aa1b-6454b6a297eb" />
+    <UnitTestResult executionId="aa8d860d-d3ea-429e-826f-5bba15df7902" testId="b7637836-98af-4a6c-6d21-470f6d04a5ef" testName="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 0, amount: 0, years: 0)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0000033" startTime="2021-09-27T15:43:25.2294436+05:30" endTime="2021-09-27T15:43:25.2294437+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa8d860d-d3ea-429e-826f-5bba15df7902" />
+    <UnitTestResult executionId="19313b23-7c5e-49d1-8484-d602682affbe" testId="8a4101e1-6acd-0f44-5a93-9d9da3702dd0" testName="Demo_xUnit_App.CreditCardInterestCalcuatorTests.Calculate_Wallet_And_CardHolder_Interest(cardHolder: CreditCardHolder { TotalInterest = 0, Wallets = [Wallet { ... }] }, walletInterest: 2388.8500000000004, cardHolderInterest: 2388.8500000000004)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0000229" startTime="2021-09-27T15:43:25.2830141+05:30" endTime="2021-09-27T15:43:25.2830142+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19313b23-7c5e-49d1-8484-d602682affbe" />
+    <UnitTestResult executionId="b8464ade-a7e1-4276-b5b5-a4edb1214e54" testId="8c182d34-34a3-e3d5-b29b-3696e5936f89" testName="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 2400, amount: 10000, years: 4)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0000426" startTime="2021-09-27T15:43:25.2294154+05:30" endTime="2021-09-27T15:43:25.2294157+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b8464ade-a7e1-4276-b5b5-a4edb1214e54" />
+    <UnitTestResult executionId="ddae71ab-35da-41ea-b802-67ae82c87408" testId="46c1fa15-b765-2d03-b1b0-c2bf0109ccea" testName="Demo_xUnit_App.InterestRateProviderTests.GetInterestRateTest" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0099850" startTime="2021-09-27T15:43:25.2523245+05:30" endTime="2021-09-27T15:43:25.2523245+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ddae71ab-35da-41ea-b802-67ae82c87408" />
+    <UnitTestResult executionId="6732410c-a847-4652-9f49-8f6a31a10b1f" testId="b2341b8c-83ff-d0eb-b3d7-01abfcbe10c5" testName="Demo_xUnit_App.CreditCardInterestCalcuatorTests.Calculate_Interest_For_Card" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0003946" startTime="2021-09-27T15:43:25.2835612+05:30" endTime="2021-09-27T15:43:25.2835620+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6732410c-a847-4652-9f49-8f6a31a10b1f" />
+    <UnitTestResult executionId="3317d571-521d-4741-b2eb-dea329093fbe" testId="93eb686f-3e96-e873-05a6-3d8ac3ddf0e5" testName="Demo_xUnit_App.CreditCardInterestCalcuatorTests.Calculate_Interest_For_Wallet" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0633866" startTime="2021-09-27T15:43:25.2753213+05:30" endTime="2021-09-27T15:43:25.2753233+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3317d571-521d-4741-b2eb-dea329093fbe" />
+    <UnitTestResult executionId="50643cd1-73d8-40da-ad4e-8fbb03b0512b" testId="becb402d-6f07-feec-da97-2c1d186b298b" testName="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestFor1Year" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0001181" startTime="2021-09-27T15:43:25.2522582+05:30" endTime="2021-09-27T15:43:25.2522584+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50643cd1-73d8-40da-ad4e-8fbb03b0512b" />
+    <UnitTestResult executionId="f536659c-fa89-4001-8b86-941764387035" testId="cb9fc388-915d-f8f9-38ae-0a2499f45b8c" testName="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 12000, amount: 100000, years: 2)" computerName="LAPTOP-QIVJ8REM" duration="00:00:00.0000078" startTime="2021-09-27T15:43:25.2294700+05:30" endTime="2021-09-27T15:43:25.2294702+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f536659c-fa89-4001-8b86-941764387035" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 0, amount: 0, years: 4)" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="c38b7cd8-a491-8463-6a59-a42452a81f1a">
+      <Execution id="7da8e691-c068-4f93-bd21-e53861cb03cb" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTests" name="CalculateInteestForDifferentTenureAndAmount" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.BadCodingExaplesTests.GetGuidTest" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="6e86d467-d59d-57d1-e26b-cf3d7519a62b">
+      <Execution id="d68596ee-d2c6-488f-96ef-0634e4aa3623" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.BadCodingExaplesTests" name="GetGuidTest" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 3000, amount: 50000, years: 1)" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="09244a7a-76b4-0135-5d3d-9dd3b880ac51">
+      <Execution id="311e1f2d-69ab-433a-9c2a-083363787e36" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTests" name="CalculateInteestForDifferentTenureAndAmount" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.BadCodingExaplesTests.GetInterestTest" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="b2f9365d-886a-4a7a-050e-2ba5825d9ec9">
+      <Execution id="7670e38a-9a61-491b-864d-a9b828951236" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.BadCodingExaplesTests" name="GetInterestTest" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 36000, amount: 200000, years: 3)" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="f8d7f379-9766-297e-08ac-861e2fd5f258">
+      <Execution id="6b18f342-2504-47f9-a49a-a512a7500b91" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTests" name="CalculateInteestForDifferentTenureAndAmount" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 2400, amount: 10000, years: 4)" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="8c182d34-34a3-e3d5-b29b-3696e5936f89">
+      <Execution id="b8464ade-a7e1-4276-b5b5-a4edb1214e54" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTests" name="CalculateInteestForDifferentTenureAndAmount" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 0, amount: 0, years: 0)" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="b7637836-98af-4a6c-6d21-470f6d04a5ef">
+      <Execution id="aa8d860d-d3ea-429e-826f-5bba15df7902" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTests" name="CalculateInteestForDifferentTenureAndAmount" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestFor1Year" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="becb402d-6f07-feec-da97-2c1d186b298b">
+      <Execution id="50643cd1-73d8-40da-ad4e-8fbb03b0512b" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTests" name="CalculateInteestFor1Year" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestRateProviderTests.GetInterestRateTest" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="46c1fa15-b765-2d03-b1b0-c2bf0109ccea">
+      <Execution id="ddae71ab-35da-41ea-b802-67ae82c87408" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestRateProviderTests" name="GetInterestRateTest" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.CreditCardInterestCalcuatorTests.Calculate_Wallet_And_CardHolder_Interest" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="8a4101e1-6acd-0f44-5a93-9d9da3702dd0">
+      <Execution id="89e81d39-4d19-4940-8899-7ee5dd945ab2" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.CreditCardInterestCalcuatorTests" name="Calculate_Wallet_And_CardHolder_Interest" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.CreditCardInterestCalcuatorTests.Calculate_Interest_For_Wallet" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="93eb686f-3e96-e873-05a6-3d8ac3ddf0e5">
+      <Execution id="3317d571-521d-4741-b2eb-dea329093fbe" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.CreditCardInterestCalcuatorTests" name="Calculate_Interest_For_Wallet" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTestFluentAssertions.CalculateInteestFor1Year" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="7ea2d1a0-99ec-17a0-fad1-2403c801339e">
+      <Execution id="5bd2f9da-3868-40a8-bfae-08a09031562a" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTestFluentAssertions" name="CalculateInteestFor1Year" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.BadCodingExaplesTests.GetIPAddressTest" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="3b13d860-e13b-bc2d-0024-39ca749ce2f6">
+      <Execution id="d37f89c6-69d0-4fa3-8681-2aa7cf6a255a" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.BadCodingExaplesTests" name="GetIPAddressTest" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestFor2Year" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="33b7df87-46b2-fb3f-c03e-ff49d1a6b723">
+      <Execution id="0fd0a102-6991-45ff-b16f-82fb26fecf26" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTests" name="CalculateInteestFor2Year" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTestUsingMoq.TestIfCurrencyConverterReturnsZero" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="397acd57-13bb-b1dc-8c6a-8f4b9af67c8d">
+      <Execution id="76041287-e304-4a8e-9e1c-2434b51b5966" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTestUsingMoq" name="TestIfCurrencyConverterReturnsZero" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.InterestCalculatorTests.CalculateInteestForDifferentTenureAndAmount(expected: 12000, amount: 100000, years: 2)" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="cb9fc388-915d-f8f9-38ae-0a2499f45b8c">
+      <Execution id="f536659c-fa89-4001-8b86-941764387035" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.InterestCalculatorTests" name="CalculateInteestForDifferentTenureAndAmount" />
+    </UnitTest>
+    <UnitTest name="Demo_xUnit_App.CreditCardInterestCalcuatorTests.Calculate_Interest_For_Card" storage="c:\users\mranu\source\repos\unit-testing-demo\src\net 5\demo xunit app\bin\debug\net5.0\demo xunit app.dll" id="b2341b8c-83ff-d0eb-b3d7-01abfcbe10c5">
+      <Execution id="6732410c-a847-4652-9f49-8f6a31a10b1f" />
+      <TestMethod codeBase="C:\Users\mranu\source\repos\unit-testing-demo\src\NET 5\Demo xUnit App\bin\Debug\net5.0\Demo xUnit App.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Demo_xUnit_App.CreditCardInterestCalcuatorTests" name="Calculate_Interest_For_Card" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="7ea2d1a0-99ec-17a0-fad1-2403c801339e" executionId="5bd2f9da-3868-40a8-bfae-08a09031562a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3b13d860-e13b-bc2d-0024-39ca749ce2f6" executionId="d37f89c6-69d0-4fa3-8681-2aa7cf6a255a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2f9365d-886a-4a7a-050e-2ba5825d9ec9" executionId="7670e38a-9a61-491b-864d-a9b828951236" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="397acd57-13bb-b1dc-8c6a-8f4b9af67c8d" executionId="76041287-e304-4a8e-9e1c-2434b51b5966" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33b7df87-46b2-fb3f-c03e-ff49d1a6b723" executionId="0fd0a102-6991-45ff-b16f-82fb26fecf26" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c38b7cd8-a491-8463-6a59-a42452a81f1a" executionId="7da8e691-c068-4f93-bd21-e53861cb03cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f8d7f379-9766-297e-08ac-861e2fd5f258" executionId="6b18f342-2504-47f9-a49a-a512a7500b91" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6e86d467-d59d-57d1-e26b-cf3d7519a62b" executionId="d68596ee-d2c6-488f-96ef-0634e4aa3623" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09244a7a-76b4-0135-5d3d-9dd3b880ac51" executionId="311e1f2d-69ab-433a-9c2a-083363787e36" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a4101e1-6acd-0f44-5a93-9d9da3702dd0" executionId="438fa8bb-35ef-4e74-b3cc-8b277244e4fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a4101e1-6acd-0f44-5a93-9d9da3702dd0" executionId="89e81d39-4d19-4940-8899-7ee5dd945ab2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a4101e1-6acd-0f44-5a93-9d9da3702dd0" executionId="f479fa60-8513-4957-aa1b-6454b6a297eb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b7637836-98af-4a6c-6d21-470f6d04a5ef" executionId="aa8d860d-d3ea-429e-826f-5bba15df7902" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a4101e1-6acd-0f44-5a93-9d9da3702dd0" executionId="19313b23-7c5e-49d1-8484-d602682affbe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c182d34-34a3-e3d5-b29b-3696e5936f89" executionId="b8464ade-a7e1-4276-b5b5-a4edb1214e54" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="46c1fa15-b765-2d03-b1b0-c2bf0109ccea" executionId="ddae71ab-35da-41ea-b802-67ae82c87408" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2341b8c-83ff-d0eb-b3d7-01abfcbe10c5" executionId="6732410c-a847-4652-9f49-8f6a31a10b1f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="93eb686f-3e96-e873-05a6-3d8ac3ddf0e5" executionId="3317d571-521d-4741-b2eb-dea329093fbe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="becb402d-6f07-feec-da97-2c1d186b298b" executionId="50643cd1-73d8-40da-ad4e-8fbb03b0512b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cb9fc388-915d-f8f9-38ae-0a2499f45b8c" executionId="f536659c-fa89-4001-8b86-941764387035" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="20" executed="20" passed="20" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.7)&#xD;
+[xUnit.net 00:00:00.41]   Discovering: Demo xUnit App&#xD;
+[xUnit.net 00:00:00.45]   Discovered:  Demo xUnit App&#xD;
+[xUnit.net 00:00:00.46]   Starting:    Demo xUnit App&#xD;
+[xUnit.net 00:00:00.57]   Finished:    Demo xUnit App&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

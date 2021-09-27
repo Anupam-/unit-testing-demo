@@ -1,0 +1,7 @@
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo Console App\bin\Debug\CreditCardInterestCalculator\Data\InterestRates.xml
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo Console App\bin\Debug\Demo Console App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo Console App\bin\Debug\Demo Console App.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo Console App\obj\Debug\Demo Console App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo Console App\obj\Debug\Demo Console App.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo Console App\obj\Debug\Demo Console App.csproj.CoreCompileInputs.cache
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo Console App\obj\Debug\Demo Console App.csproj.AssemblyReference.cache

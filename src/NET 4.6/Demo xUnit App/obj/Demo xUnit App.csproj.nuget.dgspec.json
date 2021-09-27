@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo xUnit App\\Demo xUnit App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo Console App\\Demo Console App.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo Console App\\Demo Console App.csproj",
+        "projectName": "Demo Console App",
+        "projectPath": "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo Console App\\Demo Console App.csproj",
+        "packagesPath": "C:\\Users\\mranu\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\mranu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "packagesConfigPath": "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo Console App\\packages.config"
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    },
+    "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo xUnit App\\Demo xUnit App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo xUnit App\\Demo xUnit App.csproj",
+        "projectName": "Demo xUnit App",
+        "projectPath": "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo xUnit App\\Demo xUnit App.csproj",
+        "packagesPath": "C:\\Users\\mranu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo xUnit App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mranu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "net46",
+            "projectReferences": {
+              "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo Console App\\Demo Console App.csproj": {
+                "projectPath": "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo Console App\\Demo Console App.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

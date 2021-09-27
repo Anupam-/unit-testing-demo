@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<InterestRates>
+  <Card>
+    <Type>Visa</Type>
+    <Interest>.10</Interest>
+  </Card>
+  <Card>
+    <Type>MasterCard</Type>
+    <Interest>.05</Interest>
+  </Card>
+</InterestRates>

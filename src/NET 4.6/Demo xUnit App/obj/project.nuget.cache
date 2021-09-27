@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "DzufveeqwQ66y5Ls753uG0XZ8cTu4VD2Z8uZh/npuaWKDcn2qvwjGmRwM8hgUUBrMH+9ATUXYx25z+azNNVD6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mranu\\source\\repos\\unit-testing-demo\\src\\NET 4.6\\Demo xUnit App\\Demo xUnit App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mranu\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\coverlet.msbuild\\3.1.0\\coverlet.msbuild.3.1.0.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\moq\\4.16.1\\moq.4.16.1.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\xunit.runner.msbuild\\2.4.1\\xunit.runner.msbuild.2.4.1.nupkg.sha512",
+    "C:\\Users\\mranu\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

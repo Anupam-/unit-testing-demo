@@ -1,0 +1,9 @@
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\bin\Debug\netcoreapp3.0\Demo Console App.deps.json
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\bin\Debug\netcoreapp3.0\Demo Console App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\bin\Debug\netcoreapp3.0\Demo Console App.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\obj\Debug\netcoreapp3.0\Demo Console App.csproj.AssemblyReference.cache
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\obj\Debug\netcoreapp3.0\Demo Console App.AssemblyInfoInputs.cache
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\obj\Debug\netcoreapp3.0\Demo Console App.AssemblyInfo.cs
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\obj\Debug\netcoreapp3.0\Demo Console App.csproj.CoreCompileInputs.cache
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\obj\Debug\netcoreapp3.0\Demo Console App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\Demo Console App\Demo Console App\obj\Debug\netcoreapp3.0\Demo Console App.pdb

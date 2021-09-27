@@ -1,0 +1,23 @@
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\Demo xUnit App.csproj.AssemblyReference.cache
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\Demo xUnit App.csproj.CoreCompileInputs.cache
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\xunit.abstractions.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\CreditCardInterestCalculator\Data\InterestRates.xml
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\Demo xUnit App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\Demo xUnit App.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\FluentAssertions.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\FluentAssertions.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\Moq.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\Moq.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\System.ValueTuple.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\xunit.assert.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\xunit.core.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\xunit.execution.desktop.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\Demo Console App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\Demo Console App.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\Demo xUnit App.csproj.CopyComplete
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\Demo xUnit App.dll
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\obj\Debug\Demo xUnit App.pdb
+C:\Users\mranu\source\repos\unit-testing-demo\src\NET 4.6\Demo xUnit App\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
